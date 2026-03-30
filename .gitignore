@@ -1,0 +1,14 @@
+# Ignore AI/Agent files
+.agent/
+.gsd/
+.gemini/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
